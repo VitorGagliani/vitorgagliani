@@ -1,7 +1,12 @@
 Hello! My name is Vitor Gagliani
+System's information student at Uniara (Universidade de Araraquara) and at the moment, I a Q.A analyst at Shx Informática</br> 
 
-I'm a full stack developer, making projects in Java, Spring Boot, React, Angular and Typescript. </br> 
-i'm a System's information student at Uniara (Universidade de Araraquara)
+<hr>
+
+I'm a full stack developer, making projects in Java, Spring Boot, React, Angular and Typescript. </br>  
+
+<hr>
+
 
 <div>
 <a href="https://github.com/vitorgagliani">
