@@ -1,6 +1,6 @@
 Hello! My name is Vitor Gagliani
 
-I'm a full stack developer, making projects in Java, Spring Boot, React, Angular and Typescript.
+I'm a full stack developer, making projects in Java, Spring Boot, React, Angular and Typescript. </br> 
 i'm a System's information student at Uniara (Universidade de Araraquara)
 
 <div>
