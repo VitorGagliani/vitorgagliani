@@ -9,5 +9,5 @@ i'm a System's information student at Uniara (Universidade de Araraquara)
 
 </div>
 
-![Snake animation](https://github.com/vitorgagliani/vitorgagliani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitorgagliani/vitorgagliani/blob/main/github-contribution-grid-snake.svg)
 
