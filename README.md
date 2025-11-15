@@ -1,4 +1,4 @@
-Hello! My name is Vitor Gagliani
+Hello! My name is Vitor Gagliani <br>
 System's information student at Uniara (Universidade de Araraquara) and at the moment, I a Q.A analyst at Shx Informática</br> 
 
 <hr>
