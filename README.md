@@ -11,7 +11,7 @@
   🧰Tech & Tools Preference
 </div>
 
-
+<br>
   ![Static Badge](https://img.shields.io/badge/-%20java?style=flat&logoColor=white&label=Java&labelColor=%23ffa500&color=%23ffa500)
   ![Static Badge](https://img.shields.io/badge/-%20Postgres?style=flat&logoColor=white&label=Postgres&labelColor=%23003f6b&color=%23003f6b)
   ![Static Badge](https://img.shields.io/badge/-%20C?style=flat&logoColor=white&label=C&labelColor=%233c3a3a&color=%233c3a3a)
