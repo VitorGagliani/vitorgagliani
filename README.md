@@ -1,5 +1,5 @@
 👋Hello everyone! My name is Vitor Gagliani <br>
-📚I'm an Information Systems student at Uniara (Universidade de Araraquara) and currently work as a QA Analyst at Stg Informática.</br> 
+📚I'm an Information Systems student at Uniara (Universidade de Araraquara) and currently work as a QA Analyst at SHX Informática.</br> 
 
 <hr>
 
