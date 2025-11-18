@@ -22,7 +22,8 @@
   ![Static Badge](https://img.shields.io/badge/-%20Tailwind?style=flat&logoColor=white&label=Tailwind&labelColor=%2348c0fe&color=%2348c0fe)
 
 
-
+<a href="https://github.com/vitorgagliani">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgagliani&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
