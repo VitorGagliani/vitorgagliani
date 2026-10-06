@@ -21,6 +21,33 @@
   ![Static Badge](https://img.shields.io/badge/-%20Ract?style=flat&logoColor=white&label=React&labelColor=%233078fe&color=%233078fe) 
   ![Static Badge](https://img.shields.io/badge/-%20Tailwind?style=flat&logoColor=white&label=Tailwind&labelColor=%2348c0fe&color=%2348c0fe)
 
+  ## 🛠️ Tecnologias e Ferramentas
+
+### Backend
+- Java
+- Spring Boot
+- Node.js
+- SQL
+
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- React
+
+### Banco de Dados
+- PostgreSQL
+- MySQL
+- Oracle
+
+### Ferramentas
+- Git
+- GitHub
+- Postman
+- Jira
+- Confluence
+- DBeaver
+
 
 
 
