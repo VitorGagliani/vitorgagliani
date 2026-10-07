@@ -1,65 +1,123 @@
-👋Hello everyone! My name is Vitor Gagliani <br>
-📚I'm an Information Systems student at Uniara (Universidade de Araraquara) and currently work as a QA Analyst at SHX Informática.</br> 
+# 👋 Olá, eu sou o Vitor Gagliani
 
-<hr>
+### 💻 Desenvolvedor Full Stack | Java • Spring Boot • Angular • TypeScript
 
-💻I'm a full stack developer, making projects in Java, Spring Boot, React, Angular and Typescript. </br>  
+Sou estudante de **Sistemas de Informação na Uniara**, com formação prevista para 2027, e atuo profissionalmente na área de **Quality Assurance**.
 
-<hr>
+Tenho foco em **desenvolvimento Full Stack**, principalmente com **Java, Spring Boot, Angular, TypeScript e SQL**, construindo aplicações web, APIs REST e integrações com bancos de dados.
 
-<div>
-  🧰Tech & Tools Preference <br>
-  
-</div>
+Minha experiência com QA também fortalece minha visão sobre **qualidade de software, testes, análise de requisitos e validação de aplicações**.
 
+---
 
-  ![Static Badge](https://img.shields.io/badge/-%20java?style=flat&logoColor=white&label=Java&labelColor=%23ffa500&color=%23ffa500) 
-  ![Static Badge](https://img.shields.io/badge/-%20Postgres?style=flat&logoColor=white&label=Postgres&labelColor=%23003f6b&color=%23003f6b) 
-  ![Static Badge](https://img.shields.io/badge/-%20C?style=flat&logoColor=white&label=C&labelColor=%233c3a3a&color=%233c3a3a) 
-  ![Static Badge](https://img.shields.io/badge/-%20C%23?style=flat&logoColor=white&label=C%23&labelColor=%232db701&color=%232db701) 
-  ![Static Badge](https://img.shields.io/badge/-%20HTML5?style=flat&logoColor=white&label=HTML5&labelColor=%23fea71f&color=%23fea71f) 
-  ![Static Badge](https://img.shields.io/badge/-%20Ract?style=flat&logoColor=white&label=React&labelColor=%233078fe&color=%233078fe) 
-  ![Static Badge](https://img.shields.io/badge/-%20Tailwind?style=flat&logoColor=white&label=Tailwind&labelColor=%2348c0fe&color=%2348c0fe)
+## 🚀 Sobre mim
 
-  ## 🛠️ Tecnologias e Ferramentas
+* 🎓 Bacharelado em **Sistemas de Informação — Uniara**
+* 🧪 Experiência profissional com **Quality Assurance**
+* 💻 Foco profissional em **Desenvolvimento Full Stack**
+* ☕ Desenvolvimento de APIs e aplicações com **Java + Spring Boot**
+* 🅰️ Desenvolvimento de interfaces com **Angular + TypeScript**
+* 🗄️ Experiência com **PostgreSQL e SQL**
+* 🔌 Desenvolvimento e consumo de **APIs REST**
+* 🔎 Experiência com **testes de API, testes funcionais e validação de sistemas**
+* 📚 Sempre buscando transformar conhecimento teórico em projetos práticos
+
+---
+
+## 🛠️ Tecnologias
 
 ### Backend
-- Java
-- Spring Boot
-- Node.js
-- SQL
+
+`Java` `Spring Boot` `JPA` `Hibernate` `REST API`
 
 ### Frontend
-- Angular
-- TypeScript
-- JavaScript
-- React
+
+`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `SCSS`
 
 ### Banco de Dados
-- PostgreSQL
-- MySQL
-- Oracle
 
-### Ferramentas
-- Git
-- GitHub
-- Postman
-- Jira
-- Confluence
-- DBeaver
+`PostgreSQL` `SQL` `PL/SQL`
+
+### Qualidade & Ferramentas
+
+`Postman` `Jira` `Confluence` `Git` `GitHub` `DBeaver`
+
+### Desenvolvimento
+
+`Maven` `Node.js` `VS Code` `Eclipse`
+
+---
+
+## ⭐ Projetos em destaque
+
+### 🍽️ Zesty — Sistema de Gestão para Restaurantes
+
+Sistema Full Stack desenvolvido para simular a operação de um restaurante, abrangendo desde o gerenciamento de produtos e mesas até o fluxo de pedidos e acompanhamento pela cozinha.
+
+**Principais funcionalidades:**
+
+* Dashboard gerencial
+* KDS (Kitchen Display System)
+* Controle de pedidos e mesas
+* Cadastro de produtos e categorias
+* Controle de status dos pedidos
+* Comunicação entre frontend e API REST
+* Arquitetura em camadas
+* DTOs para comunicação entre backend e frontend
+
+**Stack:** `Java` `Spring Boot` `Angular` `TypeScript` `PostgreSQL` `JPA/Hibernate`
+
+🔗 [Ver projeto](https://github.com/VitorGagliani/automacao-restaurante)
+
+---
+
+### 📊 InvestoHub
+
+Projeto Full Stack voltado para acompanhamento e gerenciamento de investimentos, desenvolvido com foco em integração de dados, organização de carteira e construção de uma aplicação web.
+
+**Stack:** `Java` `Spring Boot` `Angular` `TypeScript` `PostgreSQL`
+
+🔗 [Ver projeto](https://github.com/VitorGagliani)
+
+---
 
 
+## 🧪 QA + Desenvolvimento
 
+Minha experiência profissional em **QA** complementa minha formação como desenvolvedor.
 
+No dia a dia, tenho contato com atividades como:
 
+* Criação e execução de casos de teste
+* Testes funcionais e de regressão
+* Testes de APIs utilizando Postman
+* Validação de dados utilizando SQL
+* Análise e reprodução de bugs
+* Registro e acompanhamento de não conformidades
+* Validação de correções
+* Documentação de evidências
+* Trabalho com aplicações **Angular + Spring Boot + PostgreSQL**
 
-<hr>
+Essa combinação me permite analisar uma aplicação tanto pela perspectiva de **quem desenvolve** quanto pela perspectiva de **quem valida a qualidade do software**.
 
+---
 
-<div>
+## 🎯 Objetivo profissional
 
+Busco oportunidades como:
 
+**Desenvolvedor Full Stack Júnior**
+**Desenvolvedor Backend Java Júnior**
+**Desenvolvedor Frontend Angular Júnior**
+**Desenvolvedor Java/Angular**
 
-</div>
+Tenho interesse em oportunidades **presenciais, híbridas ou remotas**, especialmente em ambientes onde possa continuar evoluindo tecnicamente e contribuir com desenvolvimento de software.
 
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:** [linkedin.com/in/vitor-gagliani-0634582b9](https://www.linkedin.com/in/vitor-gagliani-0634582b9)
+
+📂 **GitHub:** [github.com/VitorGagliani](https://github.com/VitorGagliani)
 
